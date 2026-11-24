@@ -1,0 +1,13 @@
+DEMO INVOICE — fictional data only
+Supplier: Northstar Office Supplies
+Customer: Example Retail Ltd
+Invoice: INV-2026-104
+Issued: 2026-11-10
+Payment due: 2026-12-10
+Office chairs: 4 x USD 125 = USD 500
+Desk lamps: 10 x USD 30 = USD 300
+Subtotal: USD 800
+Tax: USD 80
+Total due: USD 880
+Payment reference: INV-2026-104
+Purchase order number: not provided
